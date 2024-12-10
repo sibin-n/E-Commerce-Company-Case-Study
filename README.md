@@ -7,3 +7,4 @@ The objective of this project is to utilize SQL to explore and analyze e-commerc
 Dataset is provided by Coding Ninjas
 - **Dataset Link:** [E Commerce](https://1drv.ms/x/c/c1347d677a0a7ff8/EWjjpNYl0S9Lnu1SmmFpwhEB727Uz7J0CEfOT5F8K8acXA?e=MwFtGy)
 ## Schema
+![schema]
